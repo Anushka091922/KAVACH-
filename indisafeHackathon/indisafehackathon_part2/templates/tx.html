@@ -1,0 +1,18 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block styles %}
+
+{{ super() }}
+	<link rel="stylesheet" href="..\static\styles.css">
+{% endblock %}
+
+
+{% block title %}Solution{% endblock %}
+
+{% block content %}
+<h2>the transaction hash inputted: {{tx}} </h2>
+
+<h2> is {{tx_verified}}</h2>
+
+<h3><a href="{{ url_for('home') }}">check more crypto values</a></h3>
+{% endblock %}

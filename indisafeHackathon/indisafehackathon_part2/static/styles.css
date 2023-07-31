@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    padding-top: 5%;
+}
+h2,h3,h4{
+text-align: center;
+}
+a{
+    color: #041a02;
+}
+body{
+    background-color: #fffec2;
+    color: #041a02;
+}

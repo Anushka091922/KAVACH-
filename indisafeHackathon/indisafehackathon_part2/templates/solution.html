@@ -1,0 +1,21 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block styles %}
+
+{{ super() }}
+	<link rel="stylesheet" href="..\static\styles.css">
+{% endblock %}
+
+
+{% block title %}Solution{% endblock %}
+
+{% block content %}
+<h2>the given pair of crypto keys</h2>
+<h4>Private: {{priv}} </h4>
+<br>
+<h4>and public: {{pub}} </h4>
+<h2> are in the format of {{crypto}} wallet</h2>
+
+
+<h3><a href="{{ url_for('home') }}">check more crypto values</a></h3>
+{% endblock %}

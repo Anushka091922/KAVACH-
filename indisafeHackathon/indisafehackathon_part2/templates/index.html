@@ -1,0 +1,25 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+{{ super() }}
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+{% endblock %}
+
+
+{% block title %}Crypto tool{% endblock %}
+
+
+{% block content %}
+
+<h1>check public and private address <a href = "{{ url_for('match') }}">here</a></h1>
+
+
+<h1>check bitcoin transaction hash code <a href = "{{ url_for('txverify') }}">here</a></h1>
+
+
+<h1>extract base 58 from image <a href = "{{ url_for('requirement_2') }}">here</a></h1>
+
+
+
+{% endblock %}
