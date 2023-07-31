@@ -2,6 +2,7 @@
 # indisafe
 repository for indisafe hackathon
 # BitKeyz
+
 # Description:
 Welcome to our cryptocurrency tool! Our website allows you to easily retrieve
 information about your cryptocurrency holdings by entering your public and
@@ -10,13 +11,16 @@ will display the related holdings.
 But that's not all - we've also included a convenient feature that allows you to
 scan digital images of Base58 addresses to quickly and accurately identify related
 cryptocurrency holdings.
+
 Whether you're a seasoned cryptocurrency investor or just getting started in the
 world of digital assets, our website is the perfect tool to help you stay on top of
 your holdings and make informed investment decisions.
 So why wait? Give our cryptocurrency tool a try today and experience the
 convenience of easy, efficient cryptocurrency management!
+
 ■Our website strives to provide its users with relevant cryptocurrency when the
 enter the public and the private keys.
+
 ■Our photo upload function also allow you to upload the image containing the
 base58 addresses and get the relevant cryptocurrency.
 
@@ -83,27 +87,39 @@ https://github.com/Anushka091922/KAVACH-/assets/114327511/1d348f99-3231-4c07-bdd
 # PROGRESS:
 
 Fully implemented features:
+
 ● Extracting base58 addresses from the digital image
+
 ● Uploading the digital image containing base58 addresses
+
 ● Searching the cryptocurrency according to the address provided
+
 Partially implemented features:
+
 ● All the features are implemented separately but not integrated .
+
 
 # FUTURE SCOPE:
 1. User can simply insert the public and the private keys and get the relevant
 cryptocurrencies
-2. BTC scan only provides the relevant cryptocurrencies for the bitcoin but now it
+
+3. BTC scan only provides the relevant cryptocurrencies for the bitcoin but now it
 can also scan for the base58 addresses for the other cryptocurrenccies.
-APPLICATIONS:
+
+# APPLICATIONS:
 1. For searching from the digital iamge containing base58 addresses you just
 have to upload the image from the upload section of the wwebiste .
-2. After uploading the image click on the submit button the algorithm will
+
+3. After uploading the image click on the submit button the algorithm will
 extract the base58 address form the image
-3. For the public and the private keys search option insert the public na dthe
+
+5. For the public and the private keys search option insert the public na dthe
 private keys in the relevant fields
-4. If any of the two public or the private keys exist we can get the relevant
+
+7. If any of the two public or the private keys exist we can get the relevant
 crypto currency for that .
-5. If the format of the keys already exist in the database then it will show
+
+9. If the format of the keys already exist in the database then it will show
 thww relevant currency and and if not then also displays the relevant new
 currency
 
