@@ -37,7 +37,7 @@ base58 addresses and get the relevant cryptocurrency.
 
 ● Flask
 
-Database
+# Database
 
 ● SQL
 
