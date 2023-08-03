@@ -1,6 +1,6 @@
 # KAVACH-Hackathon 2023
 
-repository for indisafe hackathon 2023
+This is the repository for Indisafe Hackathon 2023
 # BitKeyz
 
 # Description:
@@ -8,7 +8,7 @@ Welcome to our cryptocurrency tool! Our website allows you to easily retrieve
 information about your cryptocurrency holdings by entering your public and
 private keys. Simply input the keys for the desired cryptocurrency and our system
 will display the related holdings.
-But that's not all - we've also included a convenient feature that allows you to
+But that's not all; we've also included a convenient feature that allows you to
 scan digital images of Base58 addresses to quickly and accurately identify related
 cryptocurrency holdings.
 
@@ -16,12 +16,12 @@ Whether you're a seasoned cryptocurrency investor or just getting started in the
 world of digital assets, our website is the perfect tool to help you stay on top of
 your holdings and make informed investment decisions.
 So why wait? Give our cryptocurrency tool a try today and experience the
-convenience of easy, efficient cryptocurrency management!
+the convenience of easy, efficient cryptocurrency management!
 
 ■Our website strives to provide its users with relevant cryptocurrency when the
-enter the public and the private keys.
+Enter the public and private keys.
 
-■Our photo upload function also allow you to upload the image containing the
+■Our photo upload function also allows you to upload the image containing the
 base58 addresses and get the relevant cryptocurrency.
 
 # TECH-STACK:
@@ -43,7 +43,7 @@ base58 addresses and get the relevant cryptocurrency.
 
 # Machine Learning
 
-● PIL (image to text extractor)
+● PIL (image-to-text extractor)
 
 # Output:
 
@@ -96,7 +96,7 @@ Fully implemented features:
 
 Partially implemented features:
 
-● All the features are implemented separately but not integrated .
+● All the features are implemented separately but not integrated.
 
 
 # FUTURE SCOPE:
@@ -104,23 +104,23 @@ Partially implemented features:
 cryptocurrencies
 
 3. BTC scan only provides the relevant cryptocurrencies for the bitcoin but now it
-can also scan for the base58 addresses for the other cryptocurrenccies.
+can also scan for the base58 addresses for the other cryptocurrencies.
 
 # APPLICATIONS:
-1. For searching from the digital iamge containing base58 addresses you just
-have to upload the image from the upload section of the wwebiste .
+1. For searching from the digital image containing base58 addresses you just
+have to upload the image from the upload section of the website.
 
 3. After uploading the image click on the submit button the algorithm will
-extract the base58 address form the image
+extract the base58 address from the image
 
-5. For the public and the private keys search option insert the public na dthe
+5. For the public and the private keys search option insert the public na the
 private keys in the relevant fields
 
-7. If any of the two public or the private keys exist we can get the relevant
-crypto currency for that .
+7. If any of the two public or private keys exist we can get the relevant
+cryptocurrency for that.
 
-9. If the format of the keys already exist in the database then it will show
-thww relevant currency and and if not then also displays the relevant new
+9. If the format of the keys already exists in the database then it will show
+the relevant currency and if not then also displays the relevant new
 currency
 
 # PROJECT SETUP:
@@ -139,7 +139,7 @@ pip install Flask
 # TEAM MEMBERS:
 1. Anushka Sanjay Thakur
 2. Asmita Raina
-3. Ahemad Asad parkar
+3. Ahmed Asad parkar
 4. Samidha Unhale
 5. Pretti Rai
 6. Abhishek Bade
