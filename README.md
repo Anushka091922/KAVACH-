@@ -1,7 +1,7 @@
 # KAVACH-Hackathon 2023
 
 This is the repository for Indisafe Hackathon 2023
-# BitKeyz
+# BitKeyz-Cryptocurrency Investigation Tool
 
 # Description:
 Welcome to our cryptocurrency tool! Our website allows you to easily retrieve
