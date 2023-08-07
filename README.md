@@ -126,14 +126,19 @@ currency
 # PROJECT SETUP:
 1)Clone your repository using the following link
 https://github.com/ParkarPrograms/indisafe_part_2
+
 2)Navigate into the cloned directory:
 cd [YOUR_REPO_NAME]
+
 3)Create and activate a virtual environment (optional, but recommended):
 python -m venv env
+
 source env/bin/activate
 4)Install Flask by running the following command in your terminal:
 pip install Flask
+
 5)Install all the packages mentioned in requirements.txt.
+
 6)Then run the app.py file
 
 # TEAM MEMBERS:
